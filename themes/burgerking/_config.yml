@@ -14,7 +14,7 @@ read_more:  阅读更多
 #Plugins setting
 highlight:
   enable: true
-  theme: atom-one-dark #reference: source => plugins => highlight => styles=> style name
+  theme: vs2015 #reference: source => plugins => highlight => styles=> style name
 # https://busuanzi.ibruce.info/
 busuanzi:
   enable: true
