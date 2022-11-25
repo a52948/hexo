@@ -80,3 +80,11 @@ theme: burgerking
 deploy:
   type:
 
+// Gitalk settings, check at: https://github.com/gitalk/gitalk#usage
+Gitalk:
+  enable: true
+  clientID: "12d0c3eef1231c46fb41"
+  clientSecret: "cc3a3d9ea2ad4fc62c6cebd446512e21516a3656"
+  repo: "hexo"
+  owner: "a52948"
+  admin: ["a52948"]
