@@ -83,8 +83,8 @@ deploy:
 // Gitalk settings, check at: https://github.com/gitalk/gitalk#usage
 Gitalk:
   enable: true
-  clientID: "53c4e15b99ae5188c29d"
-  clientSecret: "89c8fadb2bc2c2ef459a99aa278d00204f67f3be"
+  clientID: "65918ac4e5fcf9ebc34f"
+  clientSecret: "698c8e5ab8caff383855ca08fd7b8813d7cd4bee"
   repo: "hexo"
   owner: "a52948"
   admin: ["a52948"]
