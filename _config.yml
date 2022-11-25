@@ -79,3 +79,11 @@ theme: burgerking
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+// Gitalk settings, check at: https://github.com/gitalk/gitalk#usage
+Gitalk:
+  enable: true
+  clientID: ""
+  clientSecret: ""
+  repo: ""
+  owner: ""
+  admin: ["xx"]
