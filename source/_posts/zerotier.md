@@ -4,7 +4,7 @@ categories: []
 date: '2023-04-23 17:20:05'
 tags: []
 title: zerotier
-updated: '2023-04-23 17:26:48'
+updated: '2023-04-23 17:27:20'
 ---
 zerotier 路由旁路的实验，在跳板机上操作如下
 
